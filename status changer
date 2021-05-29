@@ -1,4 +1,4 @@
-//META{"name":"AnimatedStatus","source":"https://github.com/Jam5es/betterdiscordstuff/new/main","website":"https://discord.gg/HMsVxW4NvM"}*//
+//META{"name":"AnimatedStatus","source":"https://raw.githubusercontent.com/Jam5es/betterdiscordstuff/main/status%20changer","website":"https://discord.gg/HMsVxW4NvM"}*//
 
 const Editor_Type = {
 	RICH: 0,
